@@ -1,0 +1,3 @@
+__pycache__ # Create a .gitignore file and ignore Python cache files
+tokens/
+.env
